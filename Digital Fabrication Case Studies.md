@@ -16,6 +16,13 @@ Most of these projects and case studies I've combined into a Vimeo album.
 
 1. [Vimeo **CNC Album**](https://vimeo.com/album/2744585 "Vimeo CNC Album from In Class")
 	 
+**CNC Milling**
+
+1. [Flip Mill example: **Madeline Gannon**](https://vimeo.com/album/2744585/video/23522855 "Flip Mill") 
+3. [CNC Drawing machine, pen atttachment: **Aaron Panone, 44RN** ](https://vimeo.com/album/2744585/video/26587452 "Sharpie pen attachment")
+4. [4th-Axis Attachment on 3-Axis Mill: **Rotary Milling** ](https://vimeo.com/album/2744585/video/15379995 "Rotary 4-Axis")
+5. [Various Machines: Admission by Machines **Taubman College, Michigan** ](https://vimeo.com/60518853 "Grab bag of fab methods")
+
 
 **Interface**
 
@@ -29,6 +36,7 @@ Most of these projects and case studies I've combined into a Vimeo album.
 2. [Markus Kayser: **Solar Sinter**](https://vimeo.com/25401444) #DIY
 3. [Nervous System: **CellCycle**](https://n-e-r-v-o-u-s.com/cellCycle/"CellCycle") & [**Radiolaria**](http://n-e-r-v-o-u-s.com/radiolaria/ "Radiolaria") & [**Kinematics**](https://n-e-r-v-o-u-s.com/kinematics/ "Kinematics")
 4. [Francis Bitonti Studi:o **Articulated Fabric**](https://vimeo.com/61198985 "3DP Fabrics")
+5. [Mary Huang: **N12.bikini**](https://vimeo.com/album/2744585/video/24435512 "Bikini fabrics")
 5. [Amanda Ghassaei: **3D Printed Record**](https://vimeo.com/album/2744585/video/56017345 "MP3 converted to vinyl and printed") and [Instructables](http://www.instructables.com/id/3D-Printed-Record/ "DIY") and [Process vid](https://vimeo.com/61210101 "Process").
 
 
