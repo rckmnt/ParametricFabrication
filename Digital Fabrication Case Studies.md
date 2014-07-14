@@ -19,7 +19,7 @@ Most of these projects and case studies I've combined into a Vimeo album.
 
 **Interface**
 
-3. [Nervous System: **CellCycle**]([https://n-e-r-v-o-u-s.com/cellCycle/"CellCycle") & [**Radiolaria**](http://n-e-r-v-o-u-s.com/radiolaria/ "Radiolaria") & [**Kinematics**](https://n-e-r-v-o-u-s.com/kinematics/ "Kinematics")
+3. [Nervous System: **CellCycle**](https://n-e-r-v-o-u-s.com/cellCycle/"CellCycle") & [**Radiolaria**](http://n-e-r-v-o-u-s.com/radiolaria/ "Radiolaria") & [**Kinematics**](https://n-e-r-v-o-u-s.com/kinematics/ "Kinematics")
 4. [Mary Huang: **Rhyme and Reason Portfolio**](http://www.rhymeandreasoncreative.com/portfolio/ "Digitally fabricated couture")
 5. [Mary Huang: **Continuum Fashion**](http://www.continuumfashion.com/Ddress/ "Neat Web interface to make your own dress")
 
@@ -27,7 +27,7 @@ Most of these projects and case studies I've combined into a Vimeo album.
 
 1. [LIA: **Filament Sculptures**](http://www.liaworks.com/theprojects/filament-sculptures/ "LIAWorks")
 2. [Markus Kayser: **Solar Sinter**](https://vimeo.com/25401444) #DIY
-3. [Nervous System: **CellCycle**]([https://n-e-r-v-o-u-s.com/cellCycle/"CellCycle") & [**Radiolaria**](http://n-e-r-v-o-u-s.com/radiolaria/ "Radiolaria") & [**Kinematics**](https://n-e-r-v-o-u-s.com/kinematics/ "Kinematics")
+3. [Nervous System: **CellCycle**](https://n-e-r-v-o-u-s.com/cellCycle/"CellCycle") & [**Radiolaria**](http://n-e-r-v-o-u-s.com/radiolaria/ "Radiolaria") & [**Kinematics**](https://n-e-r-v-o-u-s.com/kinematics/ "Kinematics")
 4. [Francis Bitonti Studi:o **Articulated Fabric**](https://vimeo.com/61198985 "3DP Fabrics")
 5. [Amanda Ghassaei: **3D Printed Record**](https://vimeo.com/album/2744585/video/56017345 "MP3 converted to vinyl and printed") and [Instructables](http://www.instructables.com/id/3D-Printed-Record/ "DIY") and [Process vid](https://vimeo.com/61210101 "Process").
 
