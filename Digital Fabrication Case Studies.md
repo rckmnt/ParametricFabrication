@@ -38,7 +38,7 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
  
 **Interfaces**
 
-3. [Nervous System: **CellCycle**](https://n-e-r-v-o-u-s.com/cellCycle/"CellCycle") & [**Radiolaria**](http://n-e-r-v-o-u-s.com/radiolaria/ "Radiolaria") & [**Kinematics**](https://n-e-r-v-o-u-s.com/kinematics/ "Kinematics")
+3. [Nervous System: **CellCycle**](https://n-e-r-v-o-u-s.com/cellCycle/ "CellCycle") & [**Radiolaria**](http://n-e-r-v-o-u-s.com/radiolaria/ "Radiolaria") & [**Kinematics**](https://n-e-r-v-o-u-s.com/kinematics/ "Kinematics")
 4. [Mary Huang: **Rhyme and Reason Portfolio**](http://www.rhymeandreasoncreative.com/portfolio/ "Digitally fabricated couture")
 5. [Mary Huang: **Continuum Fashion**](http://www.continuumfashion.com/Ddress/ "Neat Web interface to make your own dress")
 
