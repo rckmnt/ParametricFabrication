@@ -7,6 +7,7 @@ Mainly for/from classes and workshops I run at CUNY NYCCT, ITP, One Lab, and Cal
 3. [**Rhino**](http://wiki.mcneel.com/rhino/ "Windows")
 1. [**Rhino for Mac** (free beta)](http://wiki.mcneel.com/rhino/mac/home "beta")
 2. [**Grasshopper** (free)](http://www.grasshopper3d.com "Not Available for Mac")
+3. [**Rhino Python**](http://wiki.mcneel.com/developer/python "PC and Mac")
 4. [**Autodesk 123D Design** (free)](http://www.123dapp.com/design "PC and Mac")
 5. [**Autodesk 123D Make** (free)](http://www.123dapp.com/make "PC and Mac")
 
