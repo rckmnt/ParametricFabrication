@@ -5,7 +5,7 @@ Mainly for/from classes and workshops I run at CUNY NYCCT, ITP, One Lab, and Cal
 **Software** (just a few)
 
 3. [**Rhino**](http://wiki.mcneel.com/rhino/ "Windows")
-1. [**Rhino for Mac** (free beta)](http://wiki.mcneel.com/rhino/mac/home "beta")
+1. [**Rhino for Mac** (free beta)](http://wiki.mcneel.com/rhino/mac/home "beta") and [What's the difference?](http://wiki.mcneel.com/rhino/mac/diff "They're pretty different")
 2. [**Grasshopper** (free)](http://www.grasshopper3d.com "Not Available for Mac")
 3. [**Rhino Python**](http://wiki.mcneel.com/developer/python "PC and Mac")
 4. [**Autodesk 123D Design** (free)](http://www.123dapp.com/design "PC and Mac")
@@ -20,11 +20,11 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
 
 **CNC Milling**
 
-1. [3-Axis Flip Mill example: **Madeline Gannon**](https://vimeo.com/album/2744585/video/23522855 "Flip Mill") 
-3. [CNC Drawing machine, pen attachment: **Aaron Panone, 44RN** ](https://vimeo.com/album/2744585/video/26587452 "Sharpie pen attachment")
-4. [4th-Axis Attachment on 3-Axis Mill: **Rotary Milling**](https://vimeo.com/album/2744585/video/15379995 "Rotary 4-Axis")
+1. [2.5-Axis CNC Drawing machine, pen attachment: **Aaron Panone, 44RN** ](https://vimeo.com/album/2744585/video/26587452 "Sharpie pen attachment")
+2. [3-Axis Flip Mill example: **Madeline Gannon**](https://vimeo.com/album/2744585/video/23522855 "Flip Mill") 
+3. [4th-Axis Attachment on 3-Axis Mill: **Rotary Milling**](https://vimeo.com/album/2744585/video/15379995 "Rotary 4-Axis")
 5. [Various Machines, Admission by Machines: **Taubman College, Michigan** ](https://vimeo.com/60518853 "Grab bag of fab methods")
-6. [Developable Surfaces example, SJET: **voltaDom** ](http://www.sjet.us/MIT_VOLTADOM.html "MIT 2011")
+6. [Developable Surfaces, SJET: **voltaDom** ](http://www.sjet.us/MIT_VOLTADOM.html "MIT 2011")
 
 
 **3D Printing**
@@ -48,7 +48,7 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
 
 1. [Carbon Fiber Research Pavilion 2013: **ICD/ITKE** Trailer](https://vimeo.com/album/2744585/video/74714214 "CNC Woven Carbon Fiber") and [project page](http://icd.uni-stuttgart.de/?p=8807 "ICD")
 2. [ETH Zurich and ROB Tech: **Brick Stacking Robot**](https://vimeo.com/album/2744585/video/52955424 "3d CNC masonry")
-3. [Bot & Dolly **Box**](https://vimeo.com/album/2744585/video/75260457 "Nasty GMunk animations, coordinated projection mapping, and dancing robots")
+3. [Bot & Dolly: **Box**](https://vimeo.com/album/2744585/video/75260457 "Nasty GMunk animations, coordinated projection mapping, and dancing robots")
 4. [Kruysman-Proto @ Sci-Arc: **Eye,Robot**](https://vimeo.com/album/2744585/video/59316895 "Stop motion animation with Robots")
 5. [Kruysman-Proto @ Sci-Arc: **More Projection Mapping**](https://vimeo.com/album/2744585/video/50590170 "More Projection Mapping")
 6. [Greg Epps and Daniel Piker: RoboFold **Panel Folding**](https://vimeo.com/38594547)
