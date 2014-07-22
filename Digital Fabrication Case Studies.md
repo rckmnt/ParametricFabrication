@@ -18,13 +18,14 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
 
 ## Case Studies ##
 
-**CNC Milling**
+**CNC Milling, Laser Cutting**
 
 1. [2.5-Axis CNC Drawing machine, pen attachment: **Aaron Panone, 44RN** ](https://vimeo.com/album/2744585/video/26587452 "Sharpie pen attachment")
 2. [3-Axis Flip Mill example: **Madeline Gannon**](https://vimeo.com/album/2744585/video/23522855 "Flip Mill") 
 3. [4th-Axis Attachment on 3-Axis Mill: **Rotary Milling**](https://vimeo.com/album/2744585/video/15379995 "Rotary 4-Axis")
 5. [Various Machines, Admission by Machines: **Taubman College, Michigan** ](https://vimeo.com/60518853 "Grab bag of fab methods")
 6. [Developable Surfaces, SJET: **voltaDom** ](http://www.sjet.us/MIT_VOLTADOM.html "MIT 2011")
+7. [Cut, Score, Fold, Marble Fairbanks: **Flatform**](http://marblefairbanks.com/journal/flatform/)
 
 
 **3D Printing**
@@ -54,6 +55,7 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
 6. [Greg Epps and Daniel Piker: RoboFold **Panel Folding**](https://vimeo.com/38594547)
 7. [Landesgartenschau Exhibition Hall **ICD/ITKE**](https://vimeo.com/album/2744585/video/98518748 "Kuka Arm")
 8. [IaaC: **3d Printing MiniBots**](http://iaac.net/printingrobots/ "DIY Mini bots")
+9. [Timber Shell, Landesgartenschau Exhibition Hall **ICD**](http://icd.uni-stuttgart.de/?p=11173) and [video.](http://vimeo.com/98518748) 
 
 **Hybrid / Mixed-Media / Biological / Analog / Oh My!**
 
@@ -61,3 +63,4 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
 2. [Neri Oxman, Mediated Matter: **Silk Pavilion**](https://vimeo.com/67177328 "Video") and [project page](http://matter.media.mit.edu/tools/details/cnsilk "Project Page")
 3. [Joris Laarman: **Metal 3D Printer**](http://www.jorislaarman.com/mx3d-metal.html "Shown at Fabricate 2014")
 4. [Matsys @ SFMoMA 2009: **P-Wall**](http://www.sfmoma.org/explore/multimedia/videos/359 "Nice Casting craft")
+5. [Casting with Yo_Cy for TEX-FAB: **Cast Thicket**](http://vimeo.com/62107926)
