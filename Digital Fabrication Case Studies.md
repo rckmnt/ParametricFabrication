@@ -32,12 +32,12 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
 
 **CNC Milling, Laser Cutting**
 
-- [2.5-Axis CNC Drawing machine, pen attachment: **Aaron Panone, 44RN** ](https://vimeo.com/album/2744585/video/26587452 "Sharpie pen attachment")
-- [3-Axis Flip Mill example: **Madeline Gannon**](https://vimeo.com/album/2744585/video/23522855 "Flip Mill") 
-- [4th-Axis Attachment on 3-Axis Mill: **Rotary Milling**](https://vimeo.com/album/2744585/video/15379995 "Rotary 4-Axis")
-- [Various Machines, Admission by Machines: **Taubman College, Michigan** ](https://vimeo.com/60518853 "Grab bag of fab methods")
-- [Developable Surfaces, SJET: **voltaDom** ](http://www.sjet.us/MIT_VOLTADOM.html "MIT 2011")
-- [Cut, Score, Fold, Marble Fairbanks: **Flatform**](http://marblefairbanks.com/journal/flatform/)
+- [2.5-Axis CNC: Drawing machine, pen attachment: **Aaron Panone, 44RN** ](https://vimeo.com/album/2744585/video/26587452 "Sharpie pen attachment")
+- [3-Axis CNC: Flip Mill example: **Madeline Gannon**](https://vimeo.com/album/2744585/video/23522855 "Flip Mill") 
+- [4th-Axis CNC: Lathe Attachment on 3-Axis Mill: **Rotary Milling**](https://vimeo.com/album/2744585/video/15379995 "Rotary 4-Axis")
+- [Various Machines: Admission by Machines: **Taubman College, Michigan** ](https://vimeo.com/60518853 "Grab bag of fab methods")
+- [Developable Surfaces: Skylar Tibbets, SJET: **voltaDom** ](http://www.sjet.us/MIT_VOLTADOM.html "MIT 2011")
+- [Cut, Score, Fold: Marble Fairbanks: **Flatform**](http://marblefairbanks.com/journal/flatform/)
 
 
 **3D Printing**
@@ -64,10 +64,10 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
 - [Bot & Dolly: **Box**](https://vimeo.com/album/2744585/video/75260457 "Nasty GMunk animations, coordinated projection mapping, and dancing robots")
 - [Kruysman-Proto @ Sci-Arc: **Eye,Robot**](https://vimeo.com/album/2744585/video/59316895 "Stop motion animation with Robots")
 - [Kruysman-Proto @ Sci-Arc: **More Projection Mapping**](https://vimeo.com/album/2744585/video/50590170 "More Projection Mapping")
-- [Greg Epps and Daniel Piker: RoboFold **Panel Folding**](https://vimeo.com/38594547)
-- [Landesgartenschau Exhibition Hall **ICD/ITKE**](https://vimeo.com/album/2744585/video/98518748 "Kuka Arm")
+- [Daniel Piker and Greg Epps: RoboFold **Panel Folding**](https://vimeo.com/38594547)
+- [ICD/ITKE Stuttgart - Timber Shell: **Landesgartenschau Exhibition Hall**](http://icd.uni-stuttgart.de/?p=11173) and [video.](http://vimeo.com/98518748 "Kuka Arm")
 - [IaaC: **3d Printing MiniBots**](http://iaac.net/printingrobots/ "DIY Mini bots")
-- [Timber Shell, Landesgartenschau Exhibition Hall **ICD**](http://icd.uni-stuttgart.de/?p=11173) and [video.](http://vimeo.com/98518748) 
+
 
 **Hybrid / Mixed-Media / Biological / Analog / Oh My!**
 
