@@ -8,6 +8,7 @@ Mainly for/from classes and workshops I run at CUNY NYCCT, ITP, One Lab, and Cal
 - [**Rhino for Mac** (free beta)](http://wiki.mcneel.com/rhino/mac/home "beta") and [What's the difference?](http://wiki.mcneel.com/rhino/mac/diff "They're pretty different")
 - [**Grasshopper** (free)](http://www.grasshopper3d.com "Not Available for Mac")
 - [**Rhino Python**](http://wiki.mcneel.com/developer/python "PC and Mac")
+- [**Rhino Python on Mac**](http://wiki.mcneel.com/rhino/mac/python "Mac")
 - [**Autodesk 123D Design** (free)](http://www.123dapp.com/design "PC and Mac")
 - [**Autodesk 123D Make** (free)](http://www.123dapp.com/make "PC and Mac")
 
