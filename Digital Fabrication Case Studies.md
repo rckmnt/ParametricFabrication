@@ -77,7 +77,6 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
 - [Joris Laarman: **Metal 3D Printer**](http://www.jorislaarman.com/mx3d-metal.html "Shown at Fabricate 2014")
 - [Matsys @ SFMoMA 2009: **P-Wall**](http://www.sfmoma.org/explore/multimedia/videos/359 "Nice Casting craft")
 - [Casting with Yo_Cy for TEX-FAB: **Cast Thicket**](http://vimeo.com/62107926)
-- 
 
 **Geometry**
 
