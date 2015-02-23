@@ -43,7 +43,7 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
 
 **3D Printing**
 
-- [LIA: **Filament Sculptures**](http://www.liaworks.com/theprojects/filament-sculptures/ "LIAWorks")
+- [LIA: **Filament Sculptures**](http://www.liaworks.com/theprojects/filament-sculptures/ "LIAWorks") and [process](http://liasomething.tumblr.com/ "tumblr.com")
 - [Markus Kayser: **Solar Sinter**](https://vimeo.com/25401444)
 - [Nervous System: **CellCycle**](https://n-e-r-v-o-u-s.com/cellCycle/"CellCycle") & [**Radiolaria**](http://n-e-r-v-o-u-s.com/radiolaria/ "Radiolaria") & [**Kinematics**](https://n-e-r-v-o-u-s.com/kinematics/ "Kinematics")
 - [Francis Bitonti Studio: **Articulated Fabric**](https://vimeo.com/61198985 "3DP Fabrics")
@@ -80,5 +80,6 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
 
 **Geometry**
 
+- [Jason Davies: **Animated Bezier Curves (D3.js)**](https://www.jasondavies.com/animated-bezier/)
 - [Colm Kelleher: **Pizza Physics, Developable Curvature**](http://ed.ted.com/lessons/pizza-physics-new-york-style-colm-kelleher)
 - [Wired: **How a 19th Century Math Genius Taught Us the Best Way to Hold a Pizza Slice**](http://www.wired.com/2014/09/curvature-and-strength-empzeal/)
