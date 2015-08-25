@@ -84,3 +84,4 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
 - [Colm Kelleher: **Pizza Physics, Developable Curvature**](http://ed.ted.com/lessons/pizza-physics-new-york-style-colm-kelleher)
 - [Wired: **How a 19th Century Math Genius Taught Us the Best Way to Hold a Pizza Slice**](http://www.wired.com/2014/09/curvature-and-strength-empzeal/)
 - [Mike Kamermans: **A Primer on Bezier Curves (underlying math)**](http://pomax.github.io/bezierinfo/)
+- [Martin Kilian: **Curved Folding Overview (ACM Sigraph 2008)**] (http://graphics.stanford.edu/~niloy/research/folding/folding_sig_08.html)
