@@ -80,6 +80,7 @@ Most of these projects and case studies I've combined into a [Vimeo **CNC Album*
 
 **Geometry**
 
+- [Scratchapixel 2.0 **3D Maths for Computer Graphics Programming from Scratch**](http://www.scratchapixel.com/)
 - [Jason Davies: **Animated Bezier Curves (D3.js)**](https://www.jasondavies.com/animated-bezier/)
 - [Colm Kelleher: **Pizza Physics, Developable Curvature**](http://ed.ted.com/lessons/pizza-physics-new-york-style-colm-kelleher)
 - [Wired: **How a 19th Century Math Genius Taught Us the Best Way to Hold a Pizza Slice**](http://www.wired.com/2014/09/curvature-and-strength-empzeal/)
